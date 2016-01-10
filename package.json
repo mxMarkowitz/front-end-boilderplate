@@ -1,0 +1,51 @@
+{
+  "name": "front-end-boilderplate",
+  "version": "0.0.1",
+  "description": "A boilerplate for front end only projects relying on a gulp automations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxMarkowitz/front-end-boilderplate.git"
+  },
+  "author": "Max Markowitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxMarkowitz/front-end-boilderplate/issues"
+  },
+  "homepage": "https://github.com/mxMarkowitz/front-end-boilderplate#readme",
+  "dependencies": {
+    "babel": "^6.3.13",
+    "babel-core": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "chalk": "^1.1.1",
+    "concat": "^1.0.0",
+    "connect-history-api-fallback": "^1.1.0",
+    "del": "^2.2.0",
+    "eslint": "^1.10.3",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-less": "^3.0.5",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-open": "^1.0.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "history": "^1.13.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "^1.0.2",
+    "reactify": "^1.1.1",
+    "vinyl-paths": "^2.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
